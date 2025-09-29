@@ -1,4 +1,4 @@
-# NBA Player Comparison (MVP)
+# NBA Player Comparison
 
 FastAPI backend using `nba_api` to compare players per-season (regular/playoffs) and store comparison history (SQLite).
 
